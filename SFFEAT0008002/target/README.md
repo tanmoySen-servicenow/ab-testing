@@ -11,8 +11,8 @@
 
 * It should not be applicable for below scenario-
 
- 1.Soft logged in users
- 2.Full logged in users
+    1.Soft logged in users
+    2.Full logged in users
 
 * thank-you-target.js -> This script should be added to https://www.webstg.servicenow.com/thank-you-contact-us.html
 
