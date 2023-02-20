@@ -1,0 +1,34 @@
+.uf-contact-experience input[name=businessPhone]::-webkit-outer-spin-button,
+.uf-contact-experience input[name=businessPhone]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.uf-contact-experience input[name=businessPhone][type=number] {
+  -moz-appearance: textfield;
+}
+
+.uf-contact-experience select.UF-border-error ~ span {
+  color: #b33233 !important;
+}
+
+.uf-contact-experience select.UF-border-error:not(.UF-has-floating-label) {
+  color: #b33233 !important;
+}
+
+.uf-contact-experience .UF_validation_message.UF_invalid[data-required-error] {
+  display: none !important;
+}
+
+.uf-contact-experience .global-required-message {
+  font-size: 14px !important;
+  line-height: 21px !important;
+  align-items: center;
+}
+
+@media only screen and (min-width: 1024px) {
+  .uf-contact-experience .global-required-message {
+    line-height: 11.7px !important;
+  }
+}
