@@ -20,4 +20,4 @@ For both Unauthorised and Authorised Users
 
 # 2.Styles
 
-* contact-us.css -> -> This style should be added to https://www.servicenow.com/contact-us.html 
+* contact-us.css -> This style should be added to https://www.servicenow.com/contact-us.html 
